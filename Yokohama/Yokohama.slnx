@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Yokohama-Setup/Yokohama-Setup.vdproj" Type="Installer" />
+  <Project Path="Yokohama/Yokohama.csproj" />
+</Solution>
